@@ -1,7 +1,10 @@
 # terminate-from-aws-autoscale
+
 Python lib for terminating AWS Instance from an autoscaling group
 
-Import lib and call `terminate_instance_from_autoscale()`
+Import lib `from ec2terminate import terminate` and call `terminate.terminate_instance_from_autoscale()`
+
+See main.py for example
 
 Instance need to have a role attached with the folling policy
 

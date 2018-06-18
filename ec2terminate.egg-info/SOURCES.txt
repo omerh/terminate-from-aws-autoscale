@@ -1,0 +1,10 @@
+README.md
+setup.py
+ec2terminate/__init__.py
+ec2terminate/terminate.py
+ec2terminate.egg-info/PKG-INFO
+ec2terminate.egg-info/SOURCES.txt
+ec2terminate.egg-info/dependency_links.txt
+ec2terminate.egg-info/not-zip-safe
+ec2terminate.egg-info/requires.txt
+ec2terminate.egg-info/top_level.txt

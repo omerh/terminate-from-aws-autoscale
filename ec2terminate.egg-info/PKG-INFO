@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ec2terminate
+Version: 1.0.0
+Summary: terminate autoscaling instance from within
+Home-page: https://github.com/omerh/terminate-from-aws-autoscale.git
+Author: omerh
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

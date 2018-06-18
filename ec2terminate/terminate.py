@@ -73,3 +73,4 @@ def terminate_instance_from_autoscale():
         terminate_self_ec2_instance(instance_id, region)
     except Exception, e:
         return e
+
