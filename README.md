@@ -2,7 +2,7 @@
 
 Python lib for terminating AWS Instance from an autoscaling group
 
-### To build
+### If you want to use it as a package, build and push to private repo
 
 ```bash
 python setup.py install
